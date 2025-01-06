@@ -1,4 +1,5 @@
 console.log('app.js');
+console.log('bit js 012');
 
 const machines = [
     'Traktorius',

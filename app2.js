@@ -1,3 +1,7 @@
+console.log('bit js 012');
+
+
+
 document.querySelector('#btn1').addEventListener('click', e => {
     console.log('Button 1 clicked', e.target);
 });
